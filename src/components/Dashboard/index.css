@@ -1,0 +1,17 @@
+.dashboard {
+    margin: 2rem;
+  }
+
+  .chart {
+    margin-bottom: 2rem;
+  }
+
+  .summary {
+    background-color: #f4f4f4;
+    padding: 1rem;
+    border-radius: 5px;
+  }
+
+  .summary h2 {
+    margin-top: 0;
+  }

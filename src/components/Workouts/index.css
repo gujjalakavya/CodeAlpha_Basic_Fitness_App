@@ -1,0 +1,22 @@
+.workouts {
+    margin: 2rem;
+  }
+  p{
+    text-align:center;
+  }
+
+  .workouts ul {
+    text-align:center;
+    list-style: none;
+    padding: 0;
+  }
+
+  .workouts ul li {
+    margin-bottom: 2rem;
+  }
+
+  .workouts ul li img {
+    max-width: 100%;
+    height: auto;
+    display: block;
+  }

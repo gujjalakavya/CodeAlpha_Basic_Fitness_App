@@ -1,0 +1,57 @@
+goals {
+    text-align: center;
+    margin: 2rem;
+  }
+
+  .goals form {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+
+  .goals label {
+    margin-bottom: 1rem;
+    font-weight: bold;
+  }
+
+  .goals input {
+    width: 100%;
+    padding: 0.5rem;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  }
+
+  .goals button {
+    padding: 0.5rem 1rem;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+  }
+
+  .goals button:hover {
+    background-color: #45a049;
+  }
+
+  .goals div {
+    margin-top: 2rem;display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    
+  }
+
+  .goals h2 {
+    color: #4CAF50;
+  }
+
+  .goals p {
+    margin: 0.5rem 0;
+  }
+
+  .goals .bmi-info {
+    font-style: italic;
+    color: #666;
+  }
